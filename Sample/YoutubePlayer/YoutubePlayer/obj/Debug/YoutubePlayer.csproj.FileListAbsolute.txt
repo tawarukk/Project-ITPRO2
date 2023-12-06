@@ -1,0 +1,10 @@
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\bin\Debug\YoutubePlayer.exe.config
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\bin\Debug\YoutubePlayer.exe
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\bin\Debug\YoutubePlayer.pdb
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.AssemblyReference.cache
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.Form1.resources
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.Properties.Resources.resources
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.GenerateResource.cache
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.CoreCompileInputs.cache
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.exe
+C:\Users\tawar\source\repos\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.pdb

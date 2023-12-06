@@ -1,0 +1,10 @@
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\bin\Debug\Project-86-Casino.exe.config
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\bin\Debug\Project-86-Casino.exe
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\bin\Debug\Project-86-Casino.pdb
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project-86-Casino.csproj.AssemblyReference.cache
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project_86_Casino.Form1.resources
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project_86_Casino.Properties.Resources.resources
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project-86-Casino.csproj.GenerateResource.cache
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project-86-Casino.csproj.CoreCompileInputs.cache
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project-86-Casino.exe
+C:\Users\tawar\source\repos\Casino\Project-86-Casino\obj\Debug\Project-86-Casino.pdb

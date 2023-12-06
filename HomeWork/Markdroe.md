@@ -20,7 +20,7 @@ Markdown เป็นภาษาที่ใช้ในการจัดร�
 
 **ตัวอย่าง:** [Link Name](GIT_MINDMAP.jpg)
 
-![Image Description](Image_URL)
+![Image Description](GIT_MINDMAP.jpg)
 
 ## Quotes
 
